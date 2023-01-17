@@ -1,4 +1,4 @@
-#Growth Mindset
+# Growth Mindset
 
 
 
@@ -11,3 +11,5 @@
 
 
 [Please see this page on my GitHub](https://github.com/FooFooTheSnoo/reading-notes/edit/main/README.md)
+
+https://github.com/FooFooTheSnoo
