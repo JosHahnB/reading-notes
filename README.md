@@ -1,4 +1,4 @@
-# Growth Mindset
+# Hi, my name is Josh and I am going to tell you about what I believe constitutes a growth mindset.
 
 
 
