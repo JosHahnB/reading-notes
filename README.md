@@ -10,4 +10,4 @@ Growth Mindset
 
 
 
-[Please this page on my GitHub](https://github.com/FooFooTheSnoo/reading-notes/edit/main/README.md)
+[Please see this page on my GitHub](https://github.com/FooFooTheSnoo/reading-notes/edit/main/README.md)
