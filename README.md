@@ -10,6 +10,6 @@
 
 
 
-[Please see this page on my GitHub](https://github.com/FooFooTheSnoo/reading-notes/edit/main/README.md)
+Please visit this webpage I made using Markdown on [GitHub](https://foofoothesnoo.github.io/reading-notes/)
 
 https://github.com/FooFooTheSnoo
