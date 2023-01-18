@@ -22,5 +22,5 @@ The local Git repository has three componets:
 ## Things I want to know more about:
 * I woudl like to be more fluent in Git
 
-day-3 notes [webpage](https://foofoothesnoo.github.io/reading-notes/day-3)
-To go to the homepage click [here](https://foofoothesnoo.github.io/reading-notes/)
+* day-3 notes [webpage](https://foofoothesnoo.github.io/reading-notes/day-3)
+* To go to the homepage click [here](https://foofoothesnoo.github.io/reading-notes/)
