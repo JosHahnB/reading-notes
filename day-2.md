@@ -17,3 +17,8 @@ There are many different kinds of text editors out there with many different fea
 
 # About Files
   * do not use spaces in names
+
+## Things I wante to learn more about:
+I'm excited to learn more about the extensions we installed today
+
+To go back to the homepage click [here](https://foofoothesnoo.github.io/reading-notes/)
