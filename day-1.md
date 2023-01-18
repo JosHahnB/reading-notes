@@ -10,3 +10,5 @@ For example:
 ## Things I want to learn more about
 1. I would like to practice Markdown more.
 2. I would like to learn more about navigating GitHub
+
+To go back to the home page click [here](https://foofoothesnoo.github.io/reading-notes/)
