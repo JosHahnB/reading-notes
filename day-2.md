@@ -5,3 +5,15 @@ There are many different kinds of text editors out there with many different fea
   * Emmett: which aids in writing HTML and CSS mroe efficiently
   * Syntax highlighting: which changes the colors of your text so you can more easily identify elements and attributes etc...
   
+# The Command Line
+  * you can have multiple command lines open at the same time while performing a task
+  * It is a text based user system
+  * Bash = Bourne again shell 
+  * List of commands:
+    1. pwd = print working directory
+    2. cd = change directory
+    3. .. = parent directory
+    4. ** use tab completion while typing directory pathing **
+
+# About Files
+  * do not use spaces in names
