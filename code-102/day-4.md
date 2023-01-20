@@ -2,7 +2,12 @@
 
 ## Wireframing
 
-Designing your website/app layout. 
+Wireframing is a term in the tech industry used to describe the designing your website/app layout. There are primarily two different ways that people use. 
+
+1. The ol' pen and paper
+2. Using a design app
+
+Some people will start on paper to get a basic layout and then switch to the app depending on how detailed they would like their program to be. Pen/paper is typically faster to get multiple sketches, which is why it's a popular place to start. Some of the wireframing apps have in-depth tools such as prototypes, which will populate a basic app and you can 'test' the button layout and functionality.
 
  How to start:
 

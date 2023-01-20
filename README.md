@@ -1,21 +1,13 @@
-# Hi, my name is Josh learning to code while I work as an office administrator.
+# Joshua Hahn
 
+ Hi, my name is Josh learning to code while I work as an office administrator. I am planning on using my education from CodeFellows to get into the tech industry. I do not know which path I will be taking once I'm there, so I'm looking forward to exploring all the options available. My CodeFellows 401 course I will be taking is FullStack Javascript.
 
+I created this website to catalog my progression and practice creating on a platform.
 
-## **I believe there are many aspects of a growth mindset. I have few listed below:**
-1. Eager to learn
-2. Not giving up easily
-3. Working hard
-  * Just do it
+## Please check out my [GitHub](https://github.com/FooFooTheSnoo) 
 
+### Code 102
 
-
-Please visit this webpage I made using Markdown on [GitHub](https://foofoothesnoo.github.io/reading-notes/)
-
-https://github.com/FooFooTheSnoo
-
-
-### code 102
 * [day-1](code-102/day-1)
 * [day-2](code-102/day-2)
 * [day-3](code-102/day-3)
@@ -26,7 +18,8 @@ https://github.com/FooFooTheSnoo
 * [day-8](code-102/day-8)
 * [day-9](code-102/day-9)
 
-### code 201
+### Code 201
+
 * [day-1](code-201/day-1)
 * [day-2](code-201/day-2)
 * [day-3](code-201/day-3)
