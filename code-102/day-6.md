@@ -12,6 +12,6 @@ Javascript is a multi-faceted programming language used mostly in scrpting langu
 
 ## Things I want to learn more about
 
--input
--prompt
--commands
+- input
+- prompt
+- commands
