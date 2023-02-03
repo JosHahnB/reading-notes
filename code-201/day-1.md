@@ -1,5 +1,3 @@
-# Day 4 notes
-
-## Code 201 - Foundations of Software Development
+# Day 1 notes
 
 ## Things I want to learn more about

@@ -1,4 +1,4 @@
-# Day 4 notes
+# Day 7 notes
 
 
 ## Things I want to learn more about
