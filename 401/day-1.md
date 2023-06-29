@@ -26,3 +26,7 @@ Linux provides manual pages (man pages) that contain detailed documentation for 
 File Manipulation:
 
 You can create files and directories using the "touch" and "mkdir" commands, remove them using "rm" and "rmdir," rename using "mv," and copy or move them with "cp" and "mv" commands, respectively. The basic commands for file manipulation in Linux include "touch" to create files, "rm" to remove files, "mv" to rename or move files, "cp" to copy files, and "mkdir" to create directories.
+
+## growth mindset
+
+Maintaining a healthy work-life balance is crucial in the field of software development. By upgrading your technical skills through deliberate practice, you not only enhance your expertise but also gain the ability to accomplish tasks more efficiently. Watching insightful talks by experts like Carol Dweck on the Growth Mindset and Angela Lee Duckworth on Grit can inspire you to persevere through challenges and develop a resilient mindset, promoting a better work-life balance. Similarly, Alain de Botton's talk on Redefining Success can help you reflect on your values and redefine what success means to you, allowing for a more balanced approach to work and life. Assessing your emotional intelligence and biases enables you to understand yourself better, recognize personal growth, and adapt to various work situations, fostering healthier relationships and a more fulfilling work-life balance.
